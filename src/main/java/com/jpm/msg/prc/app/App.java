@@ -22,20 +22,20 @@ public class App {
 			SalesDAO salesDao = new SalesDAO();
 			AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 			List <Message> messages;
-			MessageReader mr = new MessageReader();
+			MessageController mr = new MessageController();
 			messages = mr.process();
-			Parser pr = new Parser(salesDao,adjustementsDao);
+			DataController pr = new DataController(salesDao,adjustementsDao);
 			int i = 0;
 			for (Message message: messages) {
 				i++;
 				pr.parse(message);
 				if (i % 10 ==0){
 					log.info("Reporting data after 10 sales" );
-					ConsoleDisplay.reportAfterEach10Sales(salesDao.getSales());
+					ConsoleDisplay.reportAfterEach10Sales(salesDao.getAllSales());
 				}
 				if (i % 50 == 0){
 					log.info("Reporting data after 50 sales" );
-					ConsoleDisplay.reportAfter50Sales(adjustementsDao.getAdjustements());
+					ConsoleDisplay.reportAfter50Sales(adjustementsDao.getAllAdjustments());
 				}
 			}
 		}catch( Exception ex ) {

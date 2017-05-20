@@ -61,3 +61,15 @@ java.lang.IllegalArgumentException: InputStream cannot be null
 2017-05-19 20:47:36 INFO  App:33 - Reporting data after 10 sales
 2017-05-19 20:47:36 INFO  App:33 - Reporting data after 10 sales
 2017-05-19 20:47:36 INFO  App:37 - Reporting data after 50 sales
+2017-05-19 21:15:32 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:15:32 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:15:32 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:15:32 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:15:32 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:15:32 INFO  App:37 - Reporting data after 50 sales
+2017-05-19 21:24:49 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:24:49 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:24:49 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:24:49 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:24:49 INFO  App:33 - Reporting data after 10 sales
+2017-05-19 21:24:49 INFO  App:37 - Reporting data after 50 sales

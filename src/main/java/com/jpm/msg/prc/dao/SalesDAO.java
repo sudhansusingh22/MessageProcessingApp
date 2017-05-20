@@ -17,14 +17,14 @@ import com.jpm.msg.prc.model.Sale;
 public class SalesDAO {
 	
 	/** The sales. */
-	private List<Sale> sales = new ArrayList<Sale>();
+	private List<Sale> allSales = new ArrayList<>();
 	
 	/**
 	 * Gets the sales.
 	 *
 	 * @return the sales
 	 */
-	public List<Sale> getSales() {
-		return sales;
+	public List<Sale> getAllSales() {
+		return allSales;
 	}
 }

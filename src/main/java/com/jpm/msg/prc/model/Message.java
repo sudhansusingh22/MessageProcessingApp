@@ -23,7 +23,7 @@ public class Message {
 	private BigDecimal qty=BigDecimal.ONE;
 	
 	/** The command. */
-	private Operation command=Operation.SALE;
+	private Operation operation=Operation.SALE;
 	
 	/**
 	 * Gets the product type.
@@ -84,8 +84,8 @@ public class Message {
 	 *
 	 * @return the command
 	 */
-	public Operation getCommand() {
-		return command;
+	public Operation getOperation() {
+		return operation;
 	}
 	
 	/**
@@ -93,8 +93,8 @@ public class Message {
 	 *
 	 * @param command the new command
 	 */
-	public void setCommand(Operation command) {
-		this.command = command;
+	public void setOperation(Operation command) {
+		this.operation = command;
 	}	
 	
 }

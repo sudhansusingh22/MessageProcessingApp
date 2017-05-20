@@ -22,7 +22,7 @@ public class Adjustment {
 	private BigDecimal totalQty;
 	
 	/** The command. */
-	private Operation command;
+	private Operation operation;
 	
 	/** The delta. */
 	private BigDecimal delta;
@@ -36,16 +36,16 @@ public class Adjustment {
 	 * @param totalBefore the total before
 	 * @param totalAfter the total after
 	 * @param totalQty the total qty
-	 * @param command the command
+	 * @param operation the operation
 	 * @param delta the delta
 	 * @param productType the product type
 	 */
-	public Adjustment(BigDecimal totalBefore, BigDecimal totalAfter, BigDecimal totalQty, Operation command,
+	public Adjustment(BigDecimal totalBefore, BigDecimal totalAfter, BigDecimal totalQty, Operation operation,
 			BigDecimal delta, String productType) {
 		this.totalBefore = totalBefore;
 		this.totalAfter = totalAfter;
 		this.totalQty = totalQty;
-		this.command = command;
+		this.operation = operation;
 		this.delta = delta;
 		this.productType = productType;
 	}
@@ -127,8 +127,8 @@ public class Adjustment {
 	 *
 	 * @return the command
 	 */
-	public Operation getCommand() {
-		return command;
+	public Operation getOperation() {
+		return operation;
 	}
 	
 	/**
@@ -136,8 +136,8 @@ public class Adjustment {
 	 *
 	 * @param command the new command
 	 */
-	public void setCommand(Operation command) {
-		this.command = command;
+	public void setOperation(Operation command) {
+		this.operation = command;
 	}
 	
 	/**
@@ -162,7 +162,7 @@ public class Adjustment {
 	 * @see java.lang.Object#toString()
 	 */
 	public String toString () {
-		return "Applied "+getCommand()+" "+getDelta()+" to "+getTotalQty()+ " "+ getProductType()+" and price changed from "+getTotalBefore()+ " to "+getTotalAfter();
+		return "Applied "+getOperation()+" "+getDelta()+" to "+getTotalQty()+ " "+ getProductType()+" and price changed from "+getTotalBefore()+ " to "+getTotalAfter();
 	}
 	
 }

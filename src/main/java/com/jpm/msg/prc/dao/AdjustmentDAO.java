@@ -16,15 +16,15 @@ import com.jpm.msg.prc.model.Adjustment;
 
 public class AdjustmentDAO {
 	
-	/** The adjustements. */
-	private List<Adjustment> adjustements = new ArrayList<Adjustment>();
+	/** The adjustments. */
+	private List<Adjustment> allAdjustments = new ArrayList<>();
 	
 	/**
-	 * Gets the adjustements.
+	 * Gets the adjustments.
 	 *
-	 * @return the adjustements
+	 * @return the adjustments
 	 */
-	public List<Adjustment> getAdjustements() {
-		return adjustements;
+	public List<Adjustment> getAllAdjustments() {
+		return allAdjustments;
 	}
 }
