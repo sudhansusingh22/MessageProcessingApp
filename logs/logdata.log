@@ -1,0 +1,45 @@
+2017-05-19 19:56:33 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:33 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:33 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:33 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:33 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:33 INFO  App:29 - Reporting data after 50 sales
+2017-05-19 19:56:59 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:59 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:59 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:59 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:59 INFO  App:25 - Reporting data after 10 sales
+2017-05-19 19:56:59 INFO  App:29 - Reporting data after 50 sales
+2017-05-19 20:01:41 FATAL App:36 - java.lang.IllegalArgumentException: InputStream cannot be null
+java.lang.IllegalArgumentException: InputStream cannot be null
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageReader.process(MessageReader.java:74)
+	at com.jpm.msg.prc.app.App.main(App.java:20)
+2017-05-19 20:01:49 FATAL App:36 - java.lang.IllegalArgumentException: InputStream cannot be null
+java.lang.IllegalArgumentException: InputStream cannot be null
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageReader.process(MessageReader.java:74)
+	at com.jpm.msg.prc.app.App.main(App.java:20)
+2017-05-19 20:02:19 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:02:19 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:02:19 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:02:19 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:02:19 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:02:19 INFO  App:31 - Reporting data after 50 sales
+2017-05-19 20:03:04 FATAL App:37 - java.lang.IllegalArgumentException: InputStream cannot be null
+java.lang.IllegalArgumentException: InputStream cannot be null
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageReader.process(MessageReader.java:74)
+	at com.jpm.msg.prc.app.App.main(App.java:20)
+2017-05-19 20:03:35 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:03:35 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:03:35 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:03:35 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:03:35 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:03:35 INFO  App:31 - Reporting data after 50 sales
+2017-05-19 20:05:52 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:05:52 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:05:52 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:05:52 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:05:52 INFO  App:27 - Reporting data after 10 sales
+2017-05-19 20:05:52 INFO  App:31 - Reporting data after 50 sales
