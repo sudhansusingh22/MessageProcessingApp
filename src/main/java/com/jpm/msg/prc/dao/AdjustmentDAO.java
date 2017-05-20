@@ -25,6 +25,6 @@ public class AdjustmentDAO {
 	 * @return the adjustments
 	 */
 	public List<Adjustment> getAllAdjustments() {
-		return allAdjustments;
+		return this.allAdjustments;
 	}
 }

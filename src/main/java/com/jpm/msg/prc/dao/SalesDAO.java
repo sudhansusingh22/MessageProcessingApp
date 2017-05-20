@@ -22,6 +22,6 @@ public class SalesDAO {
 	 * @return the sales
 	 */
 	public List<Sale> getAllSales() {
-		return allSales;
+		return this.allSales;
 	}
 }
