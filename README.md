@@ -1,9 +1,9 @@
 ## Message Processing Application 
 
-#### Assumptions:
+### Assumptions:
 * Input data from source is provided in XML format.
 
-#### Maven Project:
+### Maven Project:
 * Java 1.8
 
 ### Dependencies:
