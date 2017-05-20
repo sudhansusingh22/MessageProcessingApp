@@ -10,11 +10,20 @@ import java.util.List;
 import com.jpm.msg.prc.model.Adjustment;
 import com.jpm.msg.prc.model.Sale;
 
+// TODO: Auto-generated Javadoc
 /**
+ * The Class ConsoleDisplay.
+ *
  * @author sud
  * This class helps display the logs in the console.
  */
 public class ConsoleDisplay {
+	
+	/**
+	 * Report after each 10 sales.
+	 *
+	 * @param sales the sales
+	 */
 	public static void reportAfterEach10Sales (List<Sale> sales) {
 		HashMap<String,Sale> res = new HashMap<String,Sale>();
 		BigDecimal totalValue = BigDecimal.ZERO;
@@ -45,6 +54,11 @@ public class ConsoleDisplay {
 		System.out.println();
 		}
 	
+	/**
+	 * Report after 50 sales.
+	 *
+	 * @param adjustements the adjustments
+	 */
 	public static void reportAfter50Sales (List<Adjustment> adjustements) {
 		System.out.println("50 processed messsages limit reached. Adjustements made so far:");
 		for (Adjustment adjustement: adjustements) {

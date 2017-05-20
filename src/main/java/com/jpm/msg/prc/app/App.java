@@ -11,6 +11,12 @@ import org.apache.log4j.Logger;
 
 public class App {
 	private static final Logger log = Logger.getLogger(App.class);
+	
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main (String[] args) {
 		try{
 			SalesDAO salesDao = new SalesDAO();
@@ -22,7 +28,7 @@ public class App {
 			int i = 0;
 			for (Message message: messages) {
 				i++;
-				pr.parse(message).execute();
+				pr.parse(message);
 				if (i % 10 ==0){
 					log.info("Reporting data after 10 sales" );
 					ConsoleDisplay.reportAfterEach10Sales(salesDao.getSales());

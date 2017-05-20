@@ -6,14 +6,24 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.jpm.msg.prc.model.Sale;
+// TODO: Auto-generated Javadoc
+
 /**
- * @author sud
+ * The Class SalesDAO.
  *
+ * @author sud
  */
 
 public class SalesDAO {
+	
+	/** The sales. */
 	private List<Sale> sales = new ArrayList<Sale>();
 	
+	/**
+	 * Gets the sales.
+	 *
+	 * @return the sales
+	 */
 	public List<Sale> getSales() {
 		return sales;
 	}

@@ -20,11 +20,22 @@ import org.apache.log4j.Logger;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
-import com.jpm.msg.prc.model.Command;
+import com.jpm.msg.prc.model.Operation;
 import com.jpm.msg.prc.model.Message;
 
+/**
+ * The Class MessageReader.
+ */
 public class MessageReader {
+	
+	/** The Constant log. */
 	private static final Logger log = Logger.getLogger(MessageReader.class);
+	
+	/**
+	 * Process.
+	 *
+	 * @return the list
+	 */
 	public List<Message> process() {
 		List<Message> messages = new ArrayList<Message>();
 		
@@ -60,7 +71,7 @@ public class MessageReader {
 				}
 	
 				if (bcommand) {
-					message.setCommand(Command.valueOf(new String(ch, start, length).toUpperCase()));
+					message.setCommand(Operation.valueOf(new String(ch, start, length).toUpperCase()));
 					bcommand = false;
 				}
 			}
