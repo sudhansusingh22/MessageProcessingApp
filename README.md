@@ -10,8 +10,11 @@
 * `Log4j`
 
 ### How to Run:
-* `cd .\message-processor`
-* Step 1: `mvn clean`
+* Step 1: Navigate to project directory-  
+```
+cd .\message-processor
+```
+* Step 2: Perform a clean-  `mvn clean`
 ```
 C:\Users\sud\workspace\message-processor>mvn clean
 [INFO] Scanning for projects...
@@ -32,7 +35,7 @@ C:\Users\sud\workspace\message-processor>mvn clean
 
 C:\Users\sud\workspace\message-processor>
 ```
-* Step 2: `mvn compile` 
+* Step 3: Compile the source files- `mvn compile` 
 ```
 C:\Users\sud\workspace\message-processor>mvn compile
 [INFO] Scanning for projects...
@@ -58,7 +61,7 @@ C:\Users\sud\workspace\message-processor>mvn compile
 
 C:\Users\sud\workspace\message-processor>
 ```
-* Step 3: `mvn package`
+* Step 4: Create source `Jar`- `mvn package`
 ```
 C:\Users\sud\workspace\message-processor>mvn package
 [INFO] Scanning for projects...
@@ -113,8 +116,12 @@ Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
 
 C:\Users\sud\workspace\message-processor>
 ```
-* Step 4: Execute the App-  `mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"`
-* Step 5: Test the App- `mvn test`
+* Step 5: Execute the App-
+```
+mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"
+
+```
+* Step 6: Test the App- `mvn test`
 ```
 -------------------------------------------------------
  T E S T S
