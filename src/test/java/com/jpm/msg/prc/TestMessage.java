@@ -16,7 +16,7 @@ public class TestMessage {
 	 * Test 1.
 	 */
 	@Test
-	public final void test1() {
+	public final void checkXMLReadTest() {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test1.xml";
@@ -27,7 +27,7 @@ public class TestMessage {
 	 * Test 2.
 	 */
 	@Test
-	public final void test2() {
+	public final void checkSalePriceTest() {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test2.xml";
@@ -38,7 +38,7 @@ public class TestMessage {
 	 * Test 3.
 	 */
 	@Test
-	public final void test3() {
+	public final void checkSaleQtyTest() {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test3.xml";

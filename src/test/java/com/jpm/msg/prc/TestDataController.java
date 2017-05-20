@@ -25,7 +25,7 @@ public class TestDataController {
 	 * Test 1.
 	 */
 	@Test
-	public void test1() {
+	public void checkSingleSaleTest() {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
@@ -44,7 +44,7 @@ public class TestDataController {
 	 * Test 2.
 	 */
 	@Test
-	public void test2() {
+	public void checkAdjustmentSaleTest() {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
@@ -63,7 +63,7 @@ public class TestDataController {
 	 * Test 3.
 	 */
 	@Test
-	public void test3() {
+	public void checkAdjustmentWithQtyTest() {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
