@@ -6,6 +6,7 @@ package com.jpm.msg.prc.view;
 import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
@@ -31,22 +32,23 @@ public class ConsoleDisplay {
 	 *
 	 * @param sales the sales
 	 */
-	public static void reportAfterEach10Sales (List<Sale> sales, int count) {
+	public static void reportAfter10 (List<Sale> sales, int count) {
 		try{
-			HashMap<String,Sale> res = new HashMap<String,Sale>();
+			Map<String,Sale> res = new HashMap<>();
 			BigDecimal totalValue = BigDecimal.ZERO;
+			BigDecimal totalQty = BigDecimal.ZERO;
 			for (Sale sale : sales) {
-				String productType = sale.getProductType();
-				Sale totalSale = res.get(productType);
+				Sale totalSale = res.get(sale.getProductType());
 				BigDecimal value = sale.getQty().multiply(sale.getPrice());
 				totalValue = totalValue.add(value);
+				totalQty = totalQty.add(sale.getQty());
 				if (totalSale!=null) {
 					totalSale.setQty(totalSale.getQty().add(sale.getQty()));
 					totalSale.setPrice(totalSale.getPrice().add(value));
 				} else {
-					totalSale= new Sale(productType, value, sale.getQty());
+					totalSale= new Sale(sale.getProductType(), value, sale.getQty());
 				}
-				res.put(productType, totalSale);
+				res.put(sale.getProductType(), totalSale);
 			}
 			
 			System.out.println(">>> Report after "+ count + " sales: "+ "\n");
@@ -57,7 +59,7 @@ public class ConsoleDisplay {
 				System.out.println(sale);
 			}
 			System.out.println("|-------------------|------------|----------|");
-			System.out.println("|        Total Sales|"+String.format("%1$12s", totalValue.toString())+"|          |");
+			System.out.println("|              Total|"+String.format("%1$12s", totalValue.toString())+"|" +String.format("%1$10s", totalQty.toString())+"|");
 			System.out.println(" ------------------------------------------- ");
 			System.out.println();
 		}catch( Exception ex ) {
@@ -71,7 +73,7 @@ public class ConsoleDisplay {
 	 *
 	 * @param adjustements the adjustments
 	 */
-	public static void reportAfter50Sales (List<Adjustment> adjustements) {
+	public static void finalReport (List<Adjustment> adjustements) {
 		try{
 			System.out.println(">>> 50 Messages processed! Adjustment Report:\n");
 			System.out.println(" ********************************************************************************************* ");

@@ -21,21 +21,21 @@ public class App {
 		try{
 			SalesDAO salesDao = new SalesDAO();
 			AdjustmentDAO adjustementsDao = new AdjustmentDAO();
-			List <Message> messages;
-			MessageController mr = new MessageController();
-			messages = mr.process();
+			List <Message> allMessages = new MessageController().process();
 			DataController pr = new DataController(salesDao,adjustementsDao);
-			int i = 0;
-			for (Message message: messages) {
-				i++;
+			int count = 0;
+			for (Message message: allMessages) {
+				count++;
 				pr.parse(message);
-				if (i % 10 ==0){
+				// Process 10 sales
+				if (count % 10 == 0){
 					log.info("Reporting data after 10 sales" );
-					ConsoleDisplay.reportAfterEach10Sales(salesDao.getAllSales(),i);
+					ConsoleDisplay.reportAfter10(salesDao.getAllSales(),count);
 				}
-				if (i % 50 == 0){
+				// Process 50 sales
+				if (count % 50 == 0){
 					log.info("Reporting data after 50 sales" );
-					ConsoleDisplay.reportAfter50Sales(adjustementsDao.getAllAdjustments());
+					ConsoleDisplay.finalReport(adjustementsDao.getAllAdjustments());
 				}
 			}
 		}catch( Exception ex ) {
