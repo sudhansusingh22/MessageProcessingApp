@@ -11,7 +11,27 @@
 
 ### How to Run:
 * `cd .\message-processor`
-* `mvn clean`
+* `mvn clean` Clean
+        ```
+        C:\Users\sud\workspace\message-processor>mvn clean
+       [INFO] Scanning for projects...
+       [INFO]
+       [INFO] ------------------------------------------------------------------------
+       [INFO] Building msg.prc 0.0.1
+       [INFO] ------------------------------------------------------------------------
+       [INFO]
+       [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ msg.prc ---
+       [INFO] Deleting C:\Users\sud\workspace\message-processor\target
+       [INFO] ------------------------------------------------------------------------
+       [INFO] BUILD SUCCESS
+       [INFO] ------------------------------------------------------------------------
+       [INFO] Total time: 0.387 s
+       [INFO] Finished at: 2017-05-20T13:32:18-04:00
+       [INFO] Final Memory: 6M/121M
+       [INFO] ------------------------------------------------------------------------
+
+       C:\Users\sud\workspace\message-processor>
+       ```
 * `mvn compile` 
 * `mvn package`
 * `mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"`
