@@ -94,6 +94,6 @@ public class Sale {
 		 * @see java.lang.Object#toString()
 		 */
 		public String toString () {
-			return "|"+String.format("%1$19s", getProductType())+"|"+String.format("%1$12s",getPrice().toString())+"|"+String.format("%1$10s",getQty().toString())+"|";
+			return "|"+String.format("%1$19s", getProductType()).toUpperCase()+"|"+String.format("%1$12s",getPrice().toString())+"|"+String.format("%1$10s",getQty().toString())+"|";
 		}
 	}

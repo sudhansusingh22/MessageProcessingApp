@@ -31,7 +31,7 @@ public class App {
 				pr.parse(message);
 				if (i % 10 ==0){
 					log.info("Reporting data after 10 sales" );
-					ConsoleDisplay.reportAfterEach10Sales(salesDao.getAllSales());
+					ConsoleDisplay.reportAfterEach10Sales(salesDao.getAllSales(),i);
 				}
 				if (i % 50 == 0){
 					log.info("Reporting data after 50 sales" );

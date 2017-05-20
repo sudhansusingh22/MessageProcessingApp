@@ -162,7 +162,9 @@ public class Adjustment {
 	 * @see java.lang.Object#toString()
 	 */
 	public String toString () {
-		return "Applied "+getOperation()+" "+getDelta()+" to "+getTotalQty()+ " "+ getProductType()+" and price changed from "+getTotalBefore()+ " to "+getTotalAfter();
+		//return "Applied "+getOperation()+" "+getDelta()+" to "+getTotalQty()+ " "+ getProductType()+" and price changed from "+getTotalBefore()+ " to "+getTotalAfter();
+		return "|"+String.format("%1$16s",getProductType()).toUpperCase() + "|"+String.format("%1$16s", getOperation())+"|"+String.format("%1$12s",getDelta())+"|"+String.format("%1$10s",getTotalQty())+"|"+String.format("%1$18s",getTotalBefore())+"|"+String.format("%1$16s",getTotalAfter())+"|";
+
 	}
 	
 }
