@@ -3,7 +3,7 @@
 #### Maven Project:
 
 ### Dependencies:
-* Log4j
+* `Log4j`
 
 ### How to Run:
 * cd .\message-processor
