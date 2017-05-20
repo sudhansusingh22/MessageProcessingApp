@@ -19,7 +19,7 @@ import com.jpm.msg.prc.model.Message;
 /**
  * The Class TestDataController.
  */
-public class TestDataController {
+public class DataControllerTest {
 	
 	/**
 	 * Test 1.

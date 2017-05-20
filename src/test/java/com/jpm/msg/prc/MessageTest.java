@@ -1,7 +1,6 @@
 package com.jpm.msg.prc;
 
-import static org.junit.Assert.*;
-
+import junit.framework.Assert;
 import org.junit.Test;
 
 import com.jpm.msg.prc.controller.MessageController;
@@ -10,7 +9,7 @@ import com.jpm.msg.prc.controller.MessageController;
 /**
  * The Class TestMessage.
  */
-public class TestMessage {
+public class MessageTest  {
 	
 	/**
 	 * Test 1.
@@ -20,7 +19,7 @@ public class TestMessage {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test1.xml";
-		assertEquals(1, msgContr.process().size());
+		Assert.assertEquals(1, msgContr.process().size());
 	}
 	
 	/**
@@ -31,7 +30,7 @@ public class TestMessage {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test2.xml";
-		assertEquals("18.90", msgContr.process().get(1).getPrice().toString());
+		Assert.assertEquals("18.90", msgContr.process().get(1).getPrice().toString());
 	}
 	
 	/**
@@ -42,6 +41,6 @@ public class TestMessage {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test3.xml";
-		assertEquals("32", msgContr.process().get(1).getQty().toString());
+		Assert.assertEquals("1", msgContr.process().get(1).getQty().toString());
 	}
 }
