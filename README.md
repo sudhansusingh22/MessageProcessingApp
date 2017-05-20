@@ -11,30 +11,129 @@
 
 ### How to Run:
 * `cd .\message-processor`
-* `mvn clean` Clean
-        ```
-        C:\Users\sud\workspace\message-processor>mvn clean
-       [INFO] Scanning for projects...
-       [INFO]
-       [INFO] ------------------------------------------------------------------------
-       [INFO] Building msg.prc 0.0.1
-       [INFO] ------------------------------------------------------------------------
-       [INFO]
-       [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ msg.prc ---
-       [INFO] Deleting C:\Users\sud\workspace\message-processor\target
-       [INFO] ------------------------------------------------------------------------
-       [INFO] BUILD SUCCESS
-       [INFO] ------------------------------------------------------------------------
-       [INFO] Total time: 0.387 s
-       [INFO] Finished at: 2017-05-20T13:32:18-04:00
-       [INFO] Final Memory: 6M/121M
-       [INFO] ------------------------------------------------------------------------
+* Step 1: `mvn clean`
+```
+C:\Users\sud\workspace\message-processor>mvn clean
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building msg.prc 0.0.1
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ msg.prc ---
+[INFO] Deleting C:\Users\sud\workspace\message-processor\target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.387 s
+[INFO] Finished at: 2017-05-20T13:32:18-04:00
+[INFO] Final Memory: 6M/121M
+[INFO] ------------------------------------------------------------------------
 
-       C:\Users\sud\workspace\message-processor>
-       ```
-* `mvn compile` 
-* `mvn package`
-* `mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"`
+C:\Users\sud\workspace\message-processor>
+```
+* Step 2: `mvn compile` 
+```
+C:\Users\sud\workspace\message-processor>mvn compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building msg.prc 0.0.1
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ msg.prc ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 5 resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ msg.prc ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 11 source files to C:\Users\sud\workspace\message-processor\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.391 s
+[INFO] Finished at: 2017-05-20T13:36:18-04:00
+[INFO] Final Memory: 14M/211M
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\sud\workspace\message-processor>
+```
+* Step 3: `mvn package`
+```
+C:\Users\sud\workspace\message-processor>mvn package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building msg.prc 0.0.1
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ msg.prc ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 5 resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ msg.prc ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ msg.prc ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\sud\workspace\message-processor\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ msg.prc ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to C:\Users\sud\workspace\message-processor\target\test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.4.3:test (default-test) @ msg.prc ---
+[INFO] Surefire report directory: C:\Users\sud\workspace\message-processor\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jpm.msg.prc.MessageTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.134 sec
+Running com.jpm.msg.prc.DataControllerTest
+41.75
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 sec
+Running com.jpm.msg.prc.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
+
+Results :
+
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ msg.prc ---
+[INFO] Building jar: C:\Users\sud\workspace\message-processor\target\msg.prc-0.0.1.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.728 s
+[INFO] Finished at: 2017-05-20T13:36:51-04:00
+[INFO] Final Memory: 15M/162M
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\sud\workspace\message-processor>
+```
+* Step 4: Execute the App-  `mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"`
+* Step 5: Test the App- `mvn test`
+```
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jpm.msg.prc.MessageTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.156 sec
+Running com.jpm.msg.prc.DataControllerTest
+41.75
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+Running com.jpm.msg.prc.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Results :
+
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+```
+
 
 ### Sample Output:
 ```
