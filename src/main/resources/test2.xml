@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<set>
+<message productType="mango" price="2.3">
+<operation>Add</operation>
+</message>
+<message productType="mango" price="18.90">
+<qty>1</qty>
+</message>
+</set>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<set>
+<message productType="banana" price="11.89">
+<operation>Add</operation>
+</message>
+</set>

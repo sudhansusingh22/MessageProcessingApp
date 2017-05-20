@@ -8469,3 +8469,1450 @@
 2017-05-20 00:09:10 INFO  DataController:60 - Addding a normal sale data
 2017-05-20 00:09:10 INFO  App:32 - Reporting data after 10 sales
 2017-05-20 00:09:11 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 00:24:51 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:24:51 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:24:51 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:24:52 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:24:52 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 00:26:26 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:26:26 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:26:26 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:26:26 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 00:29:15 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:29:15 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:29:15 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:29:15 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 00:37:18 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:37:18 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:37:18 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:18 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:18 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:18 FATAL MessageController:117 - org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 2; The markup in the document following the root element must be well-formed.
+org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 2; The markup in the document following the root element must be well-formed.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$TrailingMiscDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageController.process(MessageController.java:114)
+	at com.jpm.msg.prc.app.App.main(App.java:24)
+2017-05-20 00:37:18 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:29 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:37:29 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:37:29 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:29 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:29 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:29 FATAL MessageController:117 - org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 2; The markup in the document following the root element must be well-formed.
+org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 2; The markup in the document following the root element must be well-formed.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$TrailingMiscDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageController.process(MessageController.java:114)
+	at com.jpm.msg.prc.app.App.main(App.java:24)
+2017-05-20 00:37:29 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:38 INFO  MessageController:109 - Creating a SAXParser.
+2017-05-20 00:37:38 INFO  MessageController:112 - Reading input data file.
+2017-05-20 00:37:38 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:62 - Creating new message.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  MessageController:82 - adding message to list.
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:37:39 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:37:39 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 00:51:58 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:51:58 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:51:58 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:51:58 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:51:58 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:51:58 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:52:25 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:52:25 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:52:25 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:52:25 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:52:25 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:52:25 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:42 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:53:43 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:53:43 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:53:43 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:53:43 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:53:43 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:53:43 FATAL MessageController:118 - org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 3; The element type "message" must be terminated by the matching end-tag "</message>".
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 3; The element type "message" must be terminated by the matching end-tag "</message>".
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageController.process(MessageController.java:115)
+	at com.jpm.msg.prc.TestMessage.test2(TestMessage.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-20 00:54:16 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:54:16 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:54:16 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:54:16 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:54:16 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:16 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:16 FATAL MessageController:118 - org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 3; The element type "message" must be terminated by the matching end-tag "</message>".
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 3; The element type "message" must be terminated by the matching end-tag "</message>".
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at com.jpm.msg.prc.controller.MessageController.process(MessageController.java:115)
+	at com.jpm.msg.prc.TestMessage.test2(TestMessage.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-20 00:54:55 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:54:55 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:54:55 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:54:55 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:54:55 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:54:55 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:55:44 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:55:44 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:55:44 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:55:44 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:55:44 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:56:04 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:56:04 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:56:04 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:56:04 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:56:04 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:57:17 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:57:17 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:57:17 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:57:17 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:17 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:17 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:57:18 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:57:18 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:18 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 00:57:37 INFO  MessageController:113 - Reading input data file.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:63 - Creating new message.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  MessageController:83 - adding message to list.
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 00:57:37 INFO  App:32 - Reporting data after 10 sales
+2017-05-20 00:57:37 INFO  App:37 - Reporting data after 50 sales
+2017-05-20 01:03:52 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:03:52 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:03:52 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:03:52 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:03:52 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:03:52 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:03:52 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:04:47 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:04:47 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:04:47 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:04:47 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:04:47 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:04:47 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:04:47 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:05:28 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:05:28 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:05:28 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:05:28 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:05:28 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:05:28 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:05:28 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:06:21 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:06:21 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:06:21 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:06:21 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:06:21 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:06:21 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:21 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:06:21 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:06:56 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:06:56 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:06:56 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:06:56 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:06:56 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:06:56 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:06:56 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:06:56 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:06:56 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:06:56 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:34 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:34 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:34 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:34 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:08:34 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:34 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:08:34 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:08:34 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:34 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:08:34 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:09:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:09:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:09:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:09:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:09:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:09:01 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:09:01 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:09:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:09:01 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:09:01 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:12:44 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:12:44 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:12:45 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:12:45 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  DataController:55 - Addding a operation sale data
+2017-05-20 01:12:45 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:12:45 INFO  MessageController:110 - Creating a SAXParser.
+2017-05-20 01:12:45 INFO  MessageController:113 - Reading input data file.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:63 - Creating new message.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  MessageController:83 - adding message to list.
+2017-05-20 01:12:45 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:12:45 INFO  DataController:60 - Addding a normal sale data
+2017-05-20 01:12:45 INFO  DataController:55 - Addding a operation sale data

@@ -31,6 +31,7 @@ public class MessageController {
 	
 	/** The Constant log. */
 	private static final Logger log = Logger.getLogger(MessageController.class);
+	public String fileName = null;
 	
 	/**
 	 * Process.
@@ -110,7 +111,7 @@ public class MessageController {
 			SAXParser saxParser = saxFactory.newSAXParser();
 			// get input stream
 			log.info("Reading input data file." );
-			InputStream in = getClass().getResourceAsStream(Constant.INPUTDATAFILE); 
+			InputStream in = getInputData(); 
 			saxParser.parse(in,handler);
 		} catch (ParserConfigurationException | SAXException e) {
 			e.printStackTrace();
@@ -125,5 +126,14 @@ public class MessageController {
 		    log.log( Level.FATAL, e.toString(), e);
 		}
 	return messages;
+	}
+	public InputStream getInputData(){
+		String file = "";
+		if(fileName == null)
+			file = Constant.INPUTDATAFILE;
+		else{
+			file = fileName;
+		}
+		return getClass().getResourceAsStream(file);
 	}
 }

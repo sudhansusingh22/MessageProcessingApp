@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<set>
+<message productType="apple" price="3.25">
+</message>
+<message productType="apple" price="32.30">
+<qty>1</qty>
+</message>
+<message productType="apple"  price="3.1">
+<operation>Add</operation>
+</message>
+</set>
