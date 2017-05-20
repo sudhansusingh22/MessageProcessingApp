@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.jpm.msg.prc.dao;
 import java.util.ArrayList;
 import java.util.List;
