@@ -127,16 +127,15 @@ mvn exec:java -Dexec.mainClass="com.jpm.msg.prc.app.App"
  T E S T S
 -------------------------------------------------------
 Running com.jpm.msg.prc.MessageTest
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.156 sec
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.146 sec
 Running com.jpm.msg.prc.DataControllerTest
-41.75
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 sec
 Running com.jpm.msg.prc.AppTest
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
 
 Results :
 
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0
 
 [INFO] ------------------------------------------------------------------------
 ```
