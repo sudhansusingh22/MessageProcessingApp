@@ -1,7 +1,11 @@
 package com.jpm.msg.prc;
 
 import junit.framework.Assert;
+
+import java.io.FileNotFoundException;
+
 import org.junit.Test;
+import org.xml.sax.SAXParseException;
 
 import com.jpm.msg.prc.controller.MessageController;
 
@@ -13,9 +17,10 @@ public class MessageTest  {
 	
 	/**
 	 * Test 1.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public final void checkXMLReadTest() {
+	public final void checkXMLReadTest() throws FileNotFoundException {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test1.xml";
@@ -24,9 +29,10 @@ public class MessageTest  {
 	
 	/**
 	 * Test 2.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public final void checkSalePriceTest() {
+	public final void checkSalePriceTest() throws FileNotFoundException {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test2.xml";
@@ -35,12 +41,21 @@ public class MessageTest  {
 	
 	/**
 	 * Test 3.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public final void checkSaleQtyTest() {
+	public final void checkSaleQtyTest() throws FileNotFoundException {
 		//test xml read
 		MessageController msgContr = new MessageController();
 		msgContr.fileName = "/test3.xml";
 		Assert.assertEquals("1", msgContr.process().get(1).getQty().toString());
 	}
+	
+	@Test(expected=FileNotFoundException.class)
+	public void testfileNotFoundException() throws FileNotFoundException {
+		MessageController msgContr = new MessageController();
+		msgContr.fileName = "";
+		msgContr.process();
+	}
+	
 }

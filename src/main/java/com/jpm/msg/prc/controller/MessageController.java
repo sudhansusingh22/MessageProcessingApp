@@ -3,6 +3,7 @@
  */
 package com.jpm.msg.prc.controller;
 
+import java.io.FileNotFoundException;
 /**
  * @author sud
  *
@@ -38,7 +39,7 @@ public class MessageController {
 	 *
 	 * @return the list of messages
 	 */
-	public List<Message> process() {
+	public List<Message> process() throws FileNotFoundException{
 		// list of message to store messages from the XML parsing
 		List<Message> messages = new ArrayList<Message>();
 		
@@ -116,7 +117,11 @@ public class MessageController {
 		} catch (ParserConfigurationException | SAXException e) {
 			e.printStackTrace();
 		    log.log( Level.FATAL, e.toString(), e);
-		} 
+		}
+		 catch (FileNotFoundException e) {
+			    log.log( Level.FATAL, e.toString(), e);
+				throw e;
+			}
 		catch (IOException e) {
 			e.printStackTrace();
 		    log.log( Level.FATAL, e.toString(), e);
@@ -127,13 +132,15 @@ public class MessageController {
 		}
 	return messages;
 	}
-	public InputStream getInputData(){
+	public InputStream getInputData() throws FileNotFoundException{
 		String file = "";
 		if(fileName == null)
 			file = Constant.INPUTDATAFILE;
 		else{
 			file = fileName;
 		}
+		if(file.equals(""))
+			throw new FileNotFoundException();
 		return getClass().getResourceAsStream(file);
 	}
 }

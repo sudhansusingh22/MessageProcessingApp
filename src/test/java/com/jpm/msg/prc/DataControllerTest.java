@@ -5,6 +5,7 @@ package com.jpm.msg.prc;
 
 import static org.junit.Assert.assertEquals;
 
+import java.io.FileNotFoundException;
 import java.util.List;
 
 import org.junit.Test;
@@ -23,9 +24,10 @@ public class DataControllerTest {
 	
 	/**
 	 * Test 1.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public void checkSingleSaleTest() {
+	public void checkSingleSaleTest() throws FileNotFoundException {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
@@ -42,9 +44,10 @@ public class DataControllerTest {
 	
 	/**
 	 * Test 2.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public void checkAdjustmentSaleTest() {
+	public void checkAdjustmentSaleTest() throws FileNotFoundException {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
@@ -61,9 +64,10 @@ public class DataControllerTest {
 	
 	/**
 	 * Test 3.
+	 * @throws FileNotFoundException 
 	 */
 	@Test
-	public void checkAdjustmentWithQtyTest() {
+	public void checkAdjustmentWithQtyTest() throws FileNotFoundException {
 		SalesDAO salesDao = new SalesDAO();
 		AdjustmentDAO adjustementsDao = new AdjustmentDAO();
 		MessageController msgContr = new MessageController();
@@ -74,7 +78,6 @@ public class DataControllerTest {
 			pr.parse(message);
 		}
 		assertEquals(2, salesDao.getAllSales().size());
-		System.out.println(adjustementsDao.getAllAdjustments().get(0).getTotalAfter().toString());
 		assertEquals("41.75", adjustementsDao.getAllAdjustments().get(0).getTotalAfter().toString());
 		assertEquals("35.55", adjustementsDao.getAllAdjustments().get(0).getTotalBefore().toString());
 
