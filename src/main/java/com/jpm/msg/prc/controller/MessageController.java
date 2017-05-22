@@ -25,6 +25,7 @@ import com.jpm.msg.prc.model.Operation;
 import com.jpm.msg.prc.utility.Constant;
 import com.jpm.msg.prc.model.Message;
 
+// TODO: Auto-generated Javadoc
 /**
  * The Class MessageReader.
  */
@@ -32,12 +33,15 @@ public class MessageController {
 	
 	/** The Constant log. */
 	private static final Logger log = Logger.getLogger(MessageController.class);
+	
+	/** The file name. */
 	public String fileName = null;
 	
 	/**
 	 * Process.
 	 *
 	 * @return the list of messages
+	 * @throws FileNotFoundException the file not found exception
 	 */
 	public List<Message> process() throws FileNotFoundException{
 		// list of message to store messages from the XML parsing
@@ -132,6 +136,13 @@ public class MessageController {
 		}
 	return messages;
 	}
+	
+	/**
+	 * Gets the input data.
+	 *
+	 * @return the input data
+	 * @throws FileNotFoundException the file not found exception
+	 */
 	public InputStream getInputData() throws FileNotFoundException{
 		String file = "";
 		if(fileName == null)

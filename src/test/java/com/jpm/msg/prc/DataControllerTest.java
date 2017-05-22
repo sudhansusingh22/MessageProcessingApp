@@ -64,7 +64,8 @@ public class DataControllerTest {
 	
 	/**
 	 * Test 3.
-	 * @throws FileNotFoundException 
+	 *
+	 * @throws FileNotFoundException the file not found exception
 	 */
 	@Test
 	public void checkAdjustmentWithQtyTest() throws FileNotFoundException {

@@ -3,7 +3,7 @@
 <message productType="banana" price="11.89">
 <operation>Add</operation>
 </message>
-<message productType="strawberry" price="8.90">
+<message productType="pineapple" price="8.90">
 <qty>12</qty>
 </message>
 <message productType="mango" price="2.3">
@@ -16,7 +16,7 @@
 </message>
 <message productType="apple" price="21.56">
 </message>
-<message productType="apple" price="32.30">
+<message productType="mango" price="32.30">
 <qty>32</qty>
 </message>
 <message productType="apple"  price="3.1">
@@ -33,19 +33,19 @@
 <message productType="cherry" price="7.27">
 <operation>Multiply</operation>
 </message>
-<message productType="strawberry" price="2.72">
+<message productType="mango" price="2.72">
 <qty>19</qty>
 </message>
-<message productType="peach" price="16.00">
+<message productType="orange" price="16.00">
 <operation>Multiply</operation>
 </message>
-<message productType="apple" price="11.22">
+<message productType="banana" price="11.22">
 <operation>Subtract</operation>
 </message>
 <message productType="cherry" price="21.21">
 <operation>Subtract</operation>
 </message>
-<message productType="strawberry" price="16.76">
+<message productType="pineapple" price="16.76">
 <qty>34</qty>
 </message>
 <message productType="apple" price="3.32">
@@ -53,12 +53,12 @@
 <message productType="banana" price="2.33">
 <operation>Add</operation>
 </message>
-<message productType="strawberry" price="21.22">
+<message productType="pineapple" price="21.22">
 <qty>29</qty>
 </message>
 <message productType="apple" price="1.35">
 </message>
-<message productType="apple" price="11.34">
+<message productType="mango" price="11.34">
 </message>
 <message productType="apple" price="12.33">
 <qty>19</qty>
@@ -74,13 +74,13 @@
 <message productType="banana" price="13.32">
 <operation>Add</operation>
 </message>
-<message productType="peach" price="12.20">
+<message productType="orange" price="12.20">
 <qty>31</qty>
 </message>
-<message productType="peach" price="3.97">
+<message productType="orange" price="3.97">
 <operation>Subtract</operation>
 </message>
-<message productType="cherry" price="8.05">
+<message productType="mango" price="8.05">
 </message>
 <message productType="apple" price="9.35">
 <operation>Subtract</operation>
@@ -88,7 +88,7 @@
 <message productType="cherry" price="3.21">
 <operation>Multiply</operation>
 </message>
-<message productType="strawberry" price="7.70">
+<message productType="pineapple" price="7.70">
 <qty>6</qty>
 </message>
 <message productType="apple" price="4.55">
@@ -96,13 +96,13 @@
 <message productType="banana" price="3.55">
 <operation>Add</operation>
 </message>
-<message productType="peach" price="7.22">
+<message productType="orange" price="7.22">
 <qty>23</qty>
 </message>
-<message productType="peach" price="1.39">
+<message productType="orange" price="1.39">
 <operation>Subtract</operation>
 </message>
-<message productType="peach" price="2.45">
+<message productType="orange" price="2.45">
 <operation>Multiply</operation>
 </message>
 <message productType="apple" price="5.25">
@@ -111,7 +111,7 @@
 <message productType="cherry" price="9.23">
 <operation>Subtract</operation>
 </message>
-<message productType="strawberry" price="9.12">
+<message productType="pineapple" price="9.12">
 <qty>21</qty>
 </message>
 <message productType="apple" price="23.5">
@@ -119,18 +119,18 @@
 <message productType="banana" price="1.47">
 <operation>Add</operation>
 </message>
-<message productType="strawberry" price="12.78">
+<message productType="pineapple" price="12.78">
 <qty>22</qty>
 </message>
 <message productType="apple" price="8.45">
 </message>
-<message productType="peach" price="2.49">
+<message productType="orange" price="2.49">
 <qty>13</qty>
 </message>
-<message productType="peach" price="9.89">
+<message productType="orange" price="9.89">
 <operation>Subtract</operation>
 </message>
-<message productType="peach" price="7.98">
+<message productType="banana" price="7.98">
 <operation>Multiply</operation>
 </message>
 <message productType="apple" price="5.15">
@@ -139,7 +139,7 @@
 <message productType="cherry" price="23.2">
 <operation>Subtract</operation>
 </message>
-<message productType="strawberry" price="6.30">
+<message productType="pineapple" price="6.30">
 <qty>15</qty>
 </message>
 <message productType="apple" price="7.15">

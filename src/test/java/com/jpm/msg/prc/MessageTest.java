@@ -1,12 +1,8 @@
 package com.jpm.msg.prc;
 
 import junit.framework.Assert;
-
 import java.io.FileNotFoundException;
-
 import org.junit.Test;
-import org.xml.sax.SAXParseException;
-
 import com.jpm.msg.prc.controller.MessageController;
 
 // TODO: Auto-generated Javadoc
@@ -17,7 +13,8 @@ public class MessageTest  {
 	
 	/**
 	 * Test 1.
-	 * @throws FileNotFoundException 
+	 *
+	 * @throws FileNotFoundException the file not found exception
 	 */
 	@Test
 	public final void checkXMLReadTest() throws FileNotFoundException {
@@ -29,7 +26,8 @@ public class MessageTest  {
 	
 	/**
 	 * Test 2.
-	 * @throws FileNotFoundException 
+	 *
+	 * @throws FileNotFoundException the file not found exception
 	 */
 	@Test
 	public final void checkSalePriceTest() throws FileNotFoundException {
@@ -41,7 +39,8 @@ public class MessageTest  {
 	
 	/**
 	 * Test 3.
-	 * @throws FileNotFoundException 
+	 *
+	 * @throws FileNotFoundException the file not found exception
 	 */
 	@Test
 	public final void checkSaleQtyTest() throws FileNotFoundException {
@@ -51,6 +50,11 @@ public class MessageTest  {
 		Assert.assertEquals("1", msgContr.process().get(1).getQty().toString());
 	}
 	
+	/**
+	 * Testfile not found exception.
+	 *
+	 * @throws FileNotFoundException the file not found exception
+	 */
 	@Test(expected=FileNotFoundException.class)
 	public void testfileNotFoundException() throws FileNotFoundException {
 		MessageController msgContr = new MessageController();
