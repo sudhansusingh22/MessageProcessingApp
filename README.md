@@ -5,6 +5,7 @@
 
 ### Maven Project:
 * Java 1.8
+* JUnit 4
 
 ### Dependencies:
 * `Log4j`
